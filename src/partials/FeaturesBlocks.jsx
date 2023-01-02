@@ -13,8 +13,8 @@ function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">How Simple works</h2>
-            <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+            <h2 className="h2 mb-4">About Us</h2>
+            <p className="text-xl text-gray-600">This should be about how we bring your vision to life. We contact, understand your needs, create a feature list and quote, make initial model, fit it to your exact specifications and then upload it for the world to see.</p>
           </div>
 
           {/* Items */}

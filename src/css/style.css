@@ -22,3 +22,7 @@
 [x-cloak=""] {
     display: none;
 }
+
+.whitespace-nowrap{
+    white-space: nowrap;
+}
