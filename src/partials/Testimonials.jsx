@@ -4,7 +4,7 @@ import TestimonialImage from '../images/testimonial.jpg';
 
 function Testimonials() {
   return (
-    <section className="relative">
+    <section className="relative" id="clients">
 
       {/* Illustration behind content */}
       <div className="absolute left-1/2 transform -translate-x-1/2 bottom-0 pointer-events-none -mb-32" aria-hidden="true">
