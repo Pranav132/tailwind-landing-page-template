@@ -14,7 +14,7 @@ function FeaturesBlocks() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">About Us</h2>
-            <p className="text-xl text-gray-600">This should be about how we bring your vision to life. We contact, understand your needs, create a feature list and quote, make initial model, fit it to your exact specifications and then upload it for the world to see.</p>
+            <p className="text-xl text-gray-600">We take pride in our ability to guide our clients through every step of the process, from start to finish. When you work with us, you can trust that we will be with you every step of the way, ensuring that your project is completed to your satisfaction. Here, you can see the six steps we take to ensure that each project we take on is completed to perfection.</p>
           </div>
 
           {/* Items */}
@@ -34,7 +34,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Initial Contact</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">We listen to your ideas and goals and discuss the best way to bring your vision to life.</p>
             </div>
 
             {/* 2nd item */}
@@ -50,7 +50,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Discovery Session</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">We sit down with you and understand the ins and outs of your vision, and take note of every feature you require.</p>
             </div>
 
             {/* 3rd item */}
@@ -65,10 +65,25 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Contracting</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">We work with you to define the scope of the project and create a detailed plan of action.</p>
             </div>
 
             {/* 4th item */}
+            <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
+              <svg className="w-16 h-16 p-1 -mt-1 mb-2" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <g fill="none" fillRule="evenodd">
+                  <rect className="fill-current text-blue-600" width="64" height="64" rx="32" />
+                  <g strokeLinecap="square" strokeWidth="2">
+                    <path className="stroke-current text-white" d="M20.571 20.571h13.714v17.143H20.571z" />
+                    <path className="stroke-current text-blue-300" d="M38.858 26.993l6.397 1.73-4.473 16.549-13.24-3.58" />
+                  </g>
+                </g>
+              </svg>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Design Phase</h4>
+              <p className="text-gray-600 text-center">We build out an initial design of the project so you have an idea of what it will look like.</p>
+            </div>
+
+             {/* 5th item */}
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
               <svg className="w-16 h-16 p-1 -mt-1 mb-2" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <g fill="none" fillRule="evenodd">
@@ -82,23 +97,9 @@ function FeaturesBlocks() {
                 </g>
               </svg>              
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Fast Prototyping</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">We take your feedback from the initial design and implement the changes as required.</p>
             </div>
 
-            {/* 5th item */}
-            <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
-              <svg className="w-16 h-16 p-1 -mt-1 mb-2" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-                <g fill="none" fillRule="evenodd">
-                  <rect className="fill-current text-blue-600" width="64" height="64" rx="32" />
-                  <g strokeLinecap="square" strokeWidth="2">
-                    <path className="stroke-current text-white" d="M20.571 20.571h13.714v17.143H20.571z" />
-                    <path className="stroke-current text-blue-300" d="M38.858 26.993l6.397 1.73-4.473 16.549-13.24-3.58" />
-                  </g>
-                </g>
-              </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Design Phase</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
 
             {/* 6th item */}
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
@@ -114,7 +115,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Develop & Launch</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">We add the finishing touches as per your needs and launch the completed project for the world to see.</p>
             </div>
 
           </div>

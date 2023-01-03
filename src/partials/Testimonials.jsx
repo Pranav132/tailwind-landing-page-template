@@ -89,7 +89,7 @@ function Testimonials() {
                 </blockquote>
                 <cite className="block font-bold text-lg not-italic mb-1">Abbas Zaveri</cite>
                 <div className="text-gray-600">
-                  <span>CEO & Founder</span> <a className="text-blue-600 hover:underline" href="#0">@HypeFlyIndia</a>
+                  <span>CEO & Founder</span> <a className="text-blue-600 hover:underline" href="https://hypefly.co.in/" target="_blank">@HypeFlyIndia</a>
                 </div>
               </div>
 
