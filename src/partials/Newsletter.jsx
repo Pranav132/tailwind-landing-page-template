@@ -1,6 +1,6 @@
 import React from 'react';import { Link } from 'react-router-dom';
 
-// Change this to links to social media and email instead of form
+// Change this to links to social media and email instead of form --!
 
 function Newsletter() {
   return (
