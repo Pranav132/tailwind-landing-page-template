@@ -4,7 +4,7 @@ import Transition from '../utils/Transition';
 import FeaturesBg from '../images/features-bg.png';
 import FeaturesElement from '../images/features-element.png';
 import WeSupply from '../images/wesupply.png'
-import aba from '../images/aba.png'
+import aba from '../images/ABA.png'
 import onlyplans from '../images/onlyplans.png'
 import sevensenses from '../images/SevenSenses.png'
 import rewrap from '../images/rewrap.png'
