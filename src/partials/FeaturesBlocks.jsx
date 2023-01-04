@@ -5,7 +5,7 @@ function FeaturesBlocks() {
     <section className="relative" id="about">
 
       {/* Section background (needs .relative class on parent and next sibling elements) */}
-      <div className="absolute inset-0 top-1/2 md:mt-24 lg:mt-0 bg-gray-900 pointer-events-none" aria-hidden="true"></div>
+      <div className="absolute inset-0 top-1/1 md:mt-24 lg:mt-0 bg-gray-900 pointer-events-none" aria-hidden="true"></div>
       <div className="absolute left-0 right-0 bottom-0 m-auto w-px p-px h-20 bg-gray-200 transform translate-y-1/2"></div>
 
       <div className="relative max-w-6xl mx-auto px-4 sm:px-6">
@@ -13,8 +13,8 @@ function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">About Us</h2>
-            <p className="text-xl text-gray-600">We take pride in our ability to guide our clients through every step of the process, from start to finish. You can trust that we will be with you every step of the way, ensuring that your project is completed to your satisfaction.</p>
+            <h2 className="h2 mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400 whitespace-nowrap">About Us</h2>
+            <p className="text-xl text-white">We take pride in our ability to guide our clients through every step of the process, from start to finish. You can trust that we will be with you every step of the way, ensuring that your project is completed to your satisfaction.</p>
           </div>
 
           {/* Items */}
