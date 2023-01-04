@@ -42,7 +42,7 @@ function Newsletter() {
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
                 <h3 className="h3 text-white mb-2">Contact Us</h3>
-                <p className="text-gray-300 text-lg mb-6">Thank you for considering The Coding Company for your project needs. Please don't hesitate to contact us to schedule a consultation and discuss how we can bring your vision to life.</p>
+                <p className="text-gray-300 text-lg mb-6">We are available to connect with potential clients and discuss how our services can bring your vision to life. Contact us to schedule a consultation. Our team of experienced developers is ready to take on your project and deliver top-quality results.</p>
 
                 {/* CTA form */}
                   <div className="flex text-white justify-center lg:justify-start">

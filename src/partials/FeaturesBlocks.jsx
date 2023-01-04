@@ -14,7 +14,7 @@ function FeaturesBlocks() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">About Us</h2>
-            <p className="text-xl text-gray-600">We take pride in our ability to guide our clients through every step of the process, from start to finish. When you work with us, you can trust that we will be with you every step of the way, ensuring that your project is completed to your satisfaction. Here, you can see the six steps we take to ensure that each project we take on is completed to perfection.</p>
+            <p className="text-xl text-gray-600">We take pride in our ability to guide our clients through every step of the process, from start to finish. You can trust that we will be with you every step of the way, ensuring that your project is completed to your satisfaction.</p>
           </div>
 
           {/* Items */}
@@ -96,8 +96,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>              
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Fast Prototyping</h4>
-              <p className="text-gray-600 text-center">We take your feedback from the initial design and implement the changes as required.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Quick Development</h4>
+              <p className="text-gray-600 text-center">We take your feedback from the initial design and begin to develop the project to meet your specifications.</p>
             </div>
 
 
@@ -114,7 +114,7 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Develop & Launch</h4>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Deploy</h4>
               <p className="text-gray-600 text-center">We add the finishing touches as per your needs and launch the completed project for the world to see.</p>
             </div>
 
