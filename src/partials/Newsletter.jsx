@@ -43,6 +43,7 @@ function Newsletter() {
               <div className="text-center lg:text-left lg:max-w-xl">
                 <h3 className="h3 text-white mb-2">Contact Us</h3>
                 <p className="text-gray-300 text-lg mb-6">We are available to connect with potential clients and discuss how our services can bring your vision to life. Contact us to schedule a consultation. Our team of experienced developers is ready to take on your project and deliver top-quality results.</p>
+                <p className="text-gray-300 text-lg mb-6">📞 +91 11111 11111</p>
 
                 {/* CTA form */}
                   <div className="flex text-white justify-center lg:justify-start">
